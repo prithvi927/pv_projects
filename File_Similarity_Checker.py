@@ -1,4 +1,4 @@
-# 9. Write a program to find out whether a file is identical & matches the content of another file.
+
 
 import re    # re module imported. this gives you the power of regular expressions, used to remove punctuation and normalize text.
 
@@ -90,5 +90,6 @@ all the text updatation takes place as normalize functions work is to update tex
 here, data1 variable called the function, so updated text is returned to the data1 variable 
 
 similarly for this line data2=normalize(f2.read())
+
 
 '''
